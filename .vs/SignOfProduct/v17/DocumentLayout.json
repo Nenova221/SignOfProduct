@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KalinA\\source\\repos\\SignOfProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{581FA967-679F-4D92-94EF-CC01524EA999}|SignOfProductTests\\SignOfProductTests.csproj|c:\\users\\kalina\\source\\repos\\signofproduct\\signofproducttests\\signofproducttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581FA967-679F-4D92-94EF-CC01524EA999}|SignOfProductTests\\SignOfProductTests.csproj|solutionrelative:signofproducttests\\signofproducttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD6290B-CD39-42AC-9D6B-7D42EE35869A}|SignOfProduct\\SignOfProduct.csproj|c:\\users\\kalina\\source\\repos\\signofproduct\\signofproduct\\signchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD6290B-CD39-42AC-9D6B-7D42EE35869A}|SignOfProduct\\SignOfProduct.csproj|solutionrelative:signofproduct\\signchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignChecker.cs",
+              "DocumentMoniker": "C:\\Users\\KalinA\\source\\repos\\SignOfProduct\\SignOfProduct\\SignChecker.cs",
+              "RelativeDocumentMoniker": "SignOfProduct\\SignChecker.cs",
+              "ToolTip": "C:\\Users\\KalinA\\source\\repos\\SignOfProduct\\SignOfProduct\\SignChecker.cs",
+              "RelativeToolTip": "SignOfProduct\\SignChecker.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:13:14.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignOfProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\KalinA\\source\\repos\\SignOfProduct\\SignOfProductTests\\SignOfProductTests.cs",
+              "RelativeDocumentMoniker": "SignOfProductTests\\SignOfProductTests.cs",
+              "ToolTip": "C:\\Users\\KalinA\\source\\repos\\SignOfProduct\\SignOfProductTests\\SignOfProductTests.cs",
+              "RelativeToolTip": "SignOfProductTests\\SignOfProductTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:12:48.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
